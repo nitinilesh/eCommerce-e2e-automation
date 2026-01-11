@@ -1,4 +1,6 @@
-# 📌 Capstone Project - [Your Project Title]
+# 📌 Capstone Project
+# 🛒 E-Commerce End-to-End Automation Framework
+
 
 ## 🔍 Overview
 
